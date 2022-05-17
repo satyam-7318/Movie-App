@@ -1,3 +1,7 @@
+<a src="https://satyam-7318.github.io/Movie-App/"/>
+
+
+
 # Movie-App
 This is movie recommendation website  which provides rating , trailers , teasers of movies . We can sort movies according to their genres.
 
