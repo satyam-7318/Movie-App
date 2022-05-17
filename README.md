@@ -1,4 +1,4 @@
-<a src="https://satyam-7318.github.io/Movie-App/"/>
+<a src="https://satyam-7318.github.io/Movie-App/">
 
 
 
